@@ -240,4 +240,4 @@ This repository serves as the official landing page for Fractal Mapper. The soft
 **Get the most recent version of Fractal Mapper today!**
 
 ---
-**Last updated:** 2026-11-04 08:48:06 UTC
+**Last updated:** 2026-11-04 16:53:29 UTC
